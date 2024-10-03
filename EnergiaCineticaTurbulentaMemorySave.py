@@ -11,6 +11,8 @@ import gc
 #testando ediçoes
 a = 5
 b = 3
+c = 9
+d == 10
 #%%
 run = '015'
 path = fr"./../bin/TEST/{run}/"
