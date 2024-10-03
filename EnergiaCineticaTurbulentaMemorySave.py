@@ -8,7 +8,8 @@ import os
 import gc
 
 # Carregando o arquivo VTK
-
+#testando ediçoes
+a = 5
 #%%
 run = '015'
 path = fr"./../bin/TEST/{run}/"
