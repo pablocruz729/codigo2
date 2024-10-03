@@ -10,6 +10,7 @@ import gc
 # Carregando o arquivo VTK
 #testando ediçoes
 a = 5
+b = 3
 #%%
 run = '015'
 path = fr"./../bin/TEST/{run}/"
